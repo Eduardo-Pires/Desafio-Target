@@ -1,0 +1,14 @@
+C:\git\Desafio-Target\TemA\bin\Debug\net8.0\TemA.exe
+C:\git\Desafio-Target\TemA\bin\Debug\net8.0\TemA.deps.json
+C:\git\Desafio-Target\TemA\bin\Debug\net8.0\TemA.runtimeconfig.json
+C:\git\Desafio-Target\TemA\bin\Debug\net8.0\TemA.dll
+C:\git\Desafio-Target\TemA\bin\Debug\net8.0\TemA.pdb
+C:\git\Desafio-Target\TemA\obj\Debug\net8.0\TemA.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Desafio-Target\TemA\obj\Debug\net8.0\TemA.AssemblyInfoInputs.cache
+C:\git\Desafio-Target\TemA\obj\Debug\net8.0\TemA.AssemblyInfo.cs
+C:\git\Desafio-Target\TemA\obj\Debug\net8.0\TemA.csproj.CoreCompileInputs.cache
+C:\git\Desafio-Target\TemA\obj\Debug\net8.0\TemA.dll
+C:\git\Desafio-Target\TemA\obj\Debug\net8.0\refint\TemA.dll
+C:\git\Desafio-Target\TemA\obj\Debug\net8.0\TemA.pdb
+C:\git\Desafio-Target\TemA\obj\Debug\net8.0\TemA.genruntimeconfig.cache
+C:\git\Desafio-Target\TemA\obj\Debug\net8.0\ref\TemA.dll
