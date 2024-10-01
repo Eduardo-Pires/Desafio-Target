@@ -8,11 +8,11 @@ class Program
         bool contem = text.Contains('a') || text.Contains('A');
         if (contem)
         {
-            Console.WriteLine($"O texto contém a letra 'a' maiúscula ou minúscula {text.Count(c => c == 'a' || c == 'A')} vezes");
+            Console.WriteLine($"O texto contém a letra 'a' maiúscula ou minúscula {text.Count(c => c == 'a' || c == 'A')} vezes;");
         }
         else
         {
-            Console.WriteLine("O texto não contém a letra 'A'");
+            Console.WriteLine("O texto não contém a letra 'A';");
         }
     }
 
@@ -22,7 +22,6 @@ class Program
         
         try
         {
-            // Lê todo o conteúdo do arquivo
             string content = File.ReadAllText(filePath);
             IsThereAnA(content);
         }
