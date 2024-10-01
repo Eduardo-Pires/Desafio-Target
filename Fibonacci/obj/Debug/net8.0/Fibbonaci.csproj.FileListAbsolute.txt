@@ -1,0 +1,14 @@
+C:\git\Desafio-Target\Fibbonaci\bin\Debug\net8.0\Fibbonaci.exe
+C:\git\Desafio-Target\Fibbonaci\bin\Debug\net8.0\Fibbonaci.deps.json
+C:\git\Desafio-Target\Fibbonaci\bin\Debug\net8.0\Fibbonaci.runtimeconfig.json
+C:\git\Desafio-Target\Fibbonaci\bin\Debug\net8.0\Fibbonaci.dll
+C:\git\Desafio-Target\Fibbonaci\bin\Debug\net8.0\Fibbonaci.pdb
+C:\git\Desafio-Target\Fibbonaci\obj\Debug\net8.0\Fibbonaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Desafio-Target\Fibbonaci\obj\Debug\net8.0\Fibbonaci.AssemblyInfoInputs.cache
+C:\git\Desafio-Target\Fibbonaci\obj\Debug\net8.0\Fibbonaci.AssemblyInfo.cs
+C:\git\Desafio-Target\Fibbonaci\obj\Debug\net8.0\Fibbonaci.csproj.CoreCompileInputs.cache
+C:\git\Desafio-Target\Fibbonaci\obj\Debug\net8.0\Fibbonaci.dll
+C:\git\Desafio-Target\Fibbonaci\obj\Debug\net8.0\refint\Fibbonaci.dll
+C:\git\Desafio-Target\Fibbonaci\obj\Debug\net8.0\Fibbonaci.pdb
+C:\git\Desafio-Target\Fibbonaci\obj\Debug\net8.0\Fibbonaci.genruntimeconfig.cache
+C:\git\Desafio-Target\Fibbonaci\obj\Debug\net8.0\ref\Fibbonaci.dll
