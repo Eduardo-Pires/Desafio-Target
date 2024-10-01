@@ -8,7 +8,7 @@ class Program
         bool contem = text.Contains('a') || text.Contains('A');
         if (contem)
         {
-            Console.WriteLine($"O texto contém a letra a maiúscula ou minúscula {text.Count(c => c == 'a' || c == 'A')} vezes");
+            Console.WriteLine($"O texto contém a letra 'a' maiúscula ou minúscula {text.Count(c => c == 'a' || c == 'A')} vezes");
         }
         else
         {
